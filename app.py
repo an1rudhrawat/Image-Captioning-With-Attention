@@ -12,7 +12,7 @@ st.set_page_config(
     layout="wide"
 )
 
-st.title("Image Caption Generator with Attention")
+st.title("Image Caption with Attention")
 
 uploaded_file = st.file_uploader(
     "Upload an image",
